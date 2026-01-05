@@ -1,38 +1,48 @@
-# sv
+# Project eigna
+Student: Esmé Lindeman
+Studentnummer: 500902752
+Opleiding: CMD Amsterdam
+Onderdeel: StudieRegiePunt (SRP)
+Technologie: SvelteKit, Headless CMS
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+# SvelteKit + Headless CMS Project
 
-## Creating a project
+Dit project is onderdeel van een **StudieResultaatPunt (SRP)** voor de opleiding **CMD Amsterdam**.  
+Het doel van dit project is het verkennen van **moderne frontend frameworks**, met een focus op **SvelteKit** en het werken met een **Headless CMS**.
 
-If you're seeing this, you've probably already done this step. Congrats!
+---
 
-```sh
-# create a new project in the current directory
-npx sv create
+## 🚀 Doel van het project
 
-# create a new project in my-app
-npx sv create my-app
-```
+- Onderzoek doen naar frontend frameworks en hun rol binnen webdevelopment
+- Kennismaken met **SvelteKit** 
+- Werken met een **Headless CMS** en content ophalen via een API
+- Component-based werken binnen een moderne frontend stack
 
-## Developing
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## 🧠 Frameworkonderzoek (samenvatting)
 
-```sh
-npm run dev
+Frontend frameworks lossen problemen op zoals:
+- Structuur in grotere projecten
+- Herbruikbaarheid van UI-componenten
+- Scheiding tussen data, logica en presentatie
+- Performance en schaalbaarheid
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+### Waarom Svelte?
+Voor dit project is gekozen voor **Svelte** omdat:
+- Minder boilerplate dan React/Vue
+- Geen Virtual DOM → betere performance
+- Duidelijke en leesbare syntax
 
-## Building
+SvelteKit biedt daarnaast routing, server-side rendering en data fetching out-of-the-box, wat het geschikt maakt voor content-gedreven projecten.
 
-To create a production version of your app:
+---
 
-```sh
-npm run build
-```
+## 🛠️ Tech stack
 
-You can preview the production build with `npm run preview`.
+- **SvelteKit**
+- **JavaScript / TypeScript**
+- **Headless CMS > strapi** 
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+
