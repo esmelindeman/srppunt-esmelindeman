@@ -1,9 +1,9 @@
 # Project data
-Student: Esmé Lindeman
-Studentnummer: 500902752
-Opleiding: CMD Amsterdam
-Onderdeel: StudieRegiePunt (SRP)
-Technologie: SvelteKit, Headless CMS
+- Student: Esmé Lindeman
+- Studentnummer: 500902752
+- Opleiding: CMD Amsterdam
+- Onderdeel: StudieRegiePunt (SRP)
+- Technologie: SvelteKit, Headless CMS
 
 # SvelteKit + Headless CMS Project
 
