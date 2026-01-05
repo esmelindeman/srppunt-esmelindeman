@@ -1,4 +1,4 @@
-# Project eigna
+# Project data
 Student: Esmé Lindeman
 Studentnummer: 500902752
 Opleiding: CMD Amsterdam
